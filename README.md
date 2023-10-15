@@ -11,6 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+To visit app [https://652beb39412cb3727f49edef--fabulous-pixie-984920.netlify.app/]
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
